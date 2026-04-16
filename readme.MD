@@ -50,6 +50,7 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📊 Monitoring & Logging
 
