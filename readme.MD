@@ -1,18 +1,112 @@
-# 💫 About Me:
-# Hi, I'm Praneeth Reddy 👋<br><br>🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD<br><br>I’m a DevOps Engineer with 3+ years of experience building scalable, secure, and automated cloud infrastructure. I focus on improving deployment speed, system reliability, and operational efficiency.<br><br>---<br><br>## 🔧 Tech Stack<br><br>* ☁️ Cloud: AWS (EC2, S3, VPC, IAM, EKS)<br>* 🐳 Containers: Docker, Kubernetes<br>* ⚙️ CI/CD: Jenkins, GitHub Actions<br>* 🏗️ IaC: Terraform, Ansible<br>* 🐧 OS: Linux<br>* 💻 Scripting: Python, Bash<br><br>---<br><br>## 🚀 What I Do<br><br>* Build and manage cloud infrastructure on AWS<br>* Design and implement CI/CD pipelines<br>* Containerize applications using Docker<br>* Deploy and manage Kubernetes workloads<br>* Automate infrastructure using Terraform & Ansible<br>* Improve system monitoring and reliability<br><br>---<br><br>## 📌 Featured Projects<br><br>🔹 CI/CD Pipeline with Jenkins & Docker<br><br>* Automated build, test, and deployment pipeline<br>* Reduced manual deployment effort by 70%<br><br>🔹 Kubernetes Deployment on AWS EKS<br><br>* Containerized application deployed with auto-scaling<br>* Zero-downtime deployments using rolling updates<br><br>🔹 Terraform AWS Infrastructure<br><br>* Provisioned VPC, EC2, S3, and Load Balancer<br>* Infrastructure fully automated and reproducible<br><br>---<br><br>## 📈 Current Focus<br><br>* Kubernetes production-grade deployments<br>* Observability (Prometheus, Grafana)<br>* DevSecOps practices<br><br>---<br><br>## 📫 Connect With Me<br><br>* LinkedIn: https://www.linkedin.com/in/praneeth-reddy-kotholla/<br>* Email: [praneeth.kotholla@gmail.com](mailto:praneeth.kotholla@gmail.com)<br>
+<h1 align="center">👋 Hi, I'm Praneeth Reddy</h1>
 
+<h3 align="center">
+DevOps Engineer • AWS • Kubernetes • Cloud Automation
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/praneeth-reddy-kotholla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praneeth.kotholla@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PraneethReddy2701&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PraneethReddy2701&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PraneethReddy2701&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="https://linkedin.com/in/praneeth-reddy-kotholla" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:praneeth.kotholla@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=PraneethReddy2701&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I’m **Praneeth Reddy**, a **DevOps Engineer with 3+ years of hands-on experience** building and managing **cloud-native infrastructure on AWS**.
+
+I specialize in designing **scalable, secure, and automated systems**, enabling faster deployments and improving system reliability through **CI/CD pipelines, Infrastructure as Code, and container orchestration**.
+
+My focus is on helping teams **ship faster, reduce downtime, and scale efficiently** using modern **DevOps and SRE practices**.
+
+---
+
+## 🎯 What I’m Currently Working On
+
+* ☁️ Designing and automating infrastructure on **AWS**
+* 🚀 Building and optimizing **CI/CD pipelines**
+* 📦 Deploying microservices on **Kubernetes (EKS)**
+* 🏗 Writing reusable **Terraform modules**
+* 📈 Improving observability using **Prometheus & Grafana**
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge\&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge\&logo=ansible)
+
+### 🔧 CI/CD & Automation
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions)
+
+### 📦 Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm)
+
+### 💻 Scripting & OS
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge)
+
+### 📊 Monitoring & Logging
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge\&logo=elasticstack)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **CI/CD Pipeline with Jenkins & Docker**
+
+* Automated build, test, and deployment workflows
+* Reduced deployment time by 70%
+
+🔹 **Kubernetes Deployment on AWS EKS**
+
+* Containerized applications with auto-scaling
+* Implemented zero-downtime rolling updates
+
+🔹 **Terraform AWS Infrastructure**
+
+* Provisioned VPC, EC2, S3, Load Balancer
+* Fully automated and reusable infrastructure
+
+---
+
+## 📈 Current Focus
+
+* Kubernetes production-grade deployments
+* Observability & monitoring systems
+* DevSecOps practices
+
+---
+
+## 📫 Let’s Connect
+
+* 📍 **Location:** Hyderabad, India
+* ✉️ **Email:** [praneeth.kotholla@gmail.com](mailto:praneeth.kotholla@gmail.com)
+* 🔗 **LinkedIn:** https://linkedin.com/in/praneeth-reddy-kotholla
+
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
+</p>
