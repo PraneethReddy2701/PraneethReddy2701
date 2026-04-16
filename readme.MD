@@ -105,6 +105,14 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/PraneethReddy2701/PraneethReddy2701/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 ## 📫 Let’s Connect
 
 * 📍 **Location:** Hyderabad, India
