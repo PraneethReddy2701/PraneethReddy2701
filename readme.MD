@@ -1,17 +1,8 @@
 <h1 align="center">👋 Hi, I'm Praneeth Reddy</h1>
 
 <h3 align="center">
-DevOps Engineer • AWS • Kubernetes • Cloud Automation
+DevOps Engineer • AWS • Kubernetes • Terraform • Cloud Automation
 </h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/praneeth-reddy-kotholla" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:praneeth.kotholla@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
 
 ---
 
