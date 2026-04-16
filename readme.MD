@@ -16,14 +16,14 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 
 ---
 
-## 🎯 What I’m Currently Working On
+## 🎯 What I’m Currently Focused On
 
-* ☁️ Designing and automating infrastructure on **AWS**
-* 🚀 Building and optimizing **CI/CD pipelines**
-* 📦 Deploying microservices on **Kubernetes (EKS)**
-* 🏗 Writing reusable **Terraform modules**
-* 🤖 Automate infrastructure and operational tasks using **Linux, Shell scripting, and Python**, improving consistency and speed
-* 📈 Improving observability using **Prometheus , Grafana & ELK**
+- Developing modular and reusable infrastructure using **Terraform**
+- Architecting and automating cloud infrastructure using **AWS**
+- Managing and scaling containerized applications on **Kubernetes (EKS)**
+- Enhancing deployment workflows through efficient **CI/CD pipelines**
+- Automate infrastructure and operational tasks using **Linux, Shell scripting, and Python**, improving consistency and speed
+- Strengthening system observability with **Prometheus, Grafana, and ELK Stack**
 
 ---
 
@@ -89,6 +89,19 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 * Kubernetes production-grade deployments
 * Observability & monitoring systems
 * DevSecOps practices
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraneethReddy2701&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraneethReddy2701&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneethReddy2701&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
