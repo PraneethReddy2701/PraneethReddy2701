@@ -22,7 +22,8 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 * 🚀 Building and optimizing **CI/CD pipelines**
 * 📦 Deploying microservices on **Kubernetes (EKS)**
 * 🏗 Writing reusable **Terraform modules**
-* 📈 Improving observability using **Prometheus & Grafana**
+* 🤖 Automate infrastructure and operational tasks using **Linux, Shell scripting, and Python**, improving consistency and speed
+* 📈 Improving observability using **Prometheus , Grafana & ELK**
 
 ---
 
