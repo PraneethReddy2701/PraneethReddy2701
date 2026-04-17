@@ -40,25 +40,25 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 
 ### ☁️ Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge\&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge\&logo=ansible)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible)
 
 ### 🔧 CI/CD & Automation
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 
 ### 📦 Containers & Orchestration
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
 
 ### 💻 Scripting & OS
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🔄 Version Control
@@ -68,9 +68,9 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 
 ### 📊 Monitoring & Logging
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge\&logo=elasticstack)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack)
 
 ---
 
@@ -96,6 +96,7 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PraneethReddy2701&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
 ---
 
 <!-- ## 🐍 Contribution Graph
