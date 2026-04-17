@@ -78,25 +78,6 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **CI/CD Pipeline with Jenkins & Docker**
-
-* Automated build, test, and deployment workflows
-* Reduced deployment time by 70%
-
-🔹 **Kubernetes Deployment on AWS EKS**
-
-* Containerized applications with auto-scaling
-* Implemented zero-downtime rolling updates
-
-🔹 **Terraform AWS Infrastructure**
-
-* Provisioned VPC, EC2, S3, Load Balancer
-* Fully automated and reusable infrastructure
-
----
-
 ## 📈 Current Focus
 
 * Kubernetes production-grade deployments
@@ -116,6 +97,9 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneethReddy2701&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PraneethReddy2701&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 <!-- ## 🐍 Contribution Graph
