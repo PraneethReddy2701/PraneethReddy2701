@@ -105,11 +105,11 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 
 ---
 
-## 🐍 Contribution Graph
+<!-- ## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://github.com/PraneethReddy2701/PraneethReddy2701/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+</div> -->
 
 ---
 
