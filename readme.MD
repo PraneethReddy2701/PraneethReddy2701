@@ -27,12 +27,12 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 
 ## 🎯 What I’m Currently Focused On
 
-- Developing modular and reusable infrastructure using **Terraform**
 - Architecting and automating cloud infrastructure using **AWS**
+- Developing modular and reusable infrastructure using **Terraform**
 - Managing and scaling containerized applications on **Kubernetes (EKS)**
 - Enhancing deployment workflows through efficient **CI/CD pipelines**
-- Automate infrastructure and operational tasks using **Linux, Shell scripting, and Python**, improving consistency and speed
 - Strengthening system observability with **Prometheus, Grafana, and ELK Stack**
+- Automating infrastructure and operational workflows using **Linux, Shell scripting, and Python** to improve efficiency and consistency
 
 ---
 
@@ -74,7 +74,7 @@ My focus is on helping teams **ship faster, reduce downtime, and scale efficient
 
 ---
 
-## 📈 Current Focus
+## 📈 Areas of Interest
 
 * Kubernetes production-grade deployments
 * Observability & monitoring systems
