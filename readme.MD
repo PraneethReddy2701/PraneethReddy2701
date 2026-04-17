@@ -4,7 +4,20 @@
 DevOps Engineer • AWS • Kubernetes • Terraform • Cloud Automation
 </h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/praneeth-reddy-kotholla" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Praneeth%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:praneeth.kotholla@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/PraneethReddy2701">
+<img src="https://komarev.com/ghpvc/?username=PraneethReddy2701&style=for-the-badge&color=0e75b6"/>
+</a>
+</p>
+
 ---
+
 
 ## 👨‍💻 About Me
 
