@@ -19,7 +19,7 @@ DevOps Engineer • AWS • Kubernetes • Terraform • Cloud Automation
 
 I’m **Praneeth Reddy**, a **DevOps Engineer with 3+ years of hands-on experience** building and managing **cloud-native infrastructure on AWS**.
 
-I specialize in designing **scalable, secure, and automated systems**, enabling faster deployments and improving system reliability through **CI/CD pipelines, Infrastructure as Code, and container orchestration**.
+I specialize in designing **scalable, secure, and automated systems**, enabling faster deployments, improving system reliability, and automating infrastructure workflows using **CI/CD pipelines, Infrastructure as Code, and container orchestration**.
 
 My focus is on helping teams **ship faster, reduce downtime, and scale efficiently** using modern **DevOps and SRE practices**.
 
